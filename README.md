@@ -58,7 +58,7 @@ Abril 2023 – Septiembre 2025
 
 **Librerías:** Zod, react-hook-form, React.js.
 
-**Frameworks:** Laravel, Next.js
+**Frameworks:** TailwindCSS, Laravel, Next.js
 
 **Bases de datos:** MySql y PostgreSql.
 
