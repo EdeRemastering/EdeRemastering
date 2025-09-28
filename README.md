@@ -52,7 +52,7 @@ Abril 2023 – Septiembre 2025
 
 ###
 
-**Fundamentos:** HTML, CSS, JS.
+**Fundamentales:** HTML, CSS, JS.
 
 **Lenguajes:** JavaScript, TypeScript.
 
