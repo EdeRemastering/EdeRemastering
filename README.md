@@ -2,7 +2,6 @@
 
 Apasionado analista y desarrollador de software enfocado en crear soluciones web innovadoras y eficientes con tecnologías modernas. Mi objetivo es transformar ideas en aplicaciones que simplifican procesos y potencian la productividad, haciendo la diferencia en equipos y organizaciones.
 
-
 ## Perfil Profesional 💼
 
 Con experiencia en desarrollo web, he contribuido en proyectos claves durante mi práctica profesional, diseñando aplicaciones para gestionar horarios del personal y sistemas integrales para administrar pedidos y domicilios, mejorando la coordinación operativa y la eficiencia global.
@@ -20,6 +19,8 @@ Creación de un sistema integral para administrar pedidos y domicilios, impulsan
 Tecnólogo en Análisis y Desarrollo de Software
 SENA, Apartadó
 Abril 2023 – Septiembre 2025
+
+## Tecnologías y herramientas 🛠️
 
 ###
 
@@ -49,8 +50,7 @@ Abril 2023 – Septiembre 2025
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-## Tecnologías y herramientas 🛠️
-
+###
 
 **Fundamentos:** HTML, CSS, JS.
 
@@ -67,7 +67,5 @@ Abril 2023 – Septiembre 2025
 **Control de versiones:** Git y GitHub.
 
 **IDE:** VSC y CURSOR.
-
-
 
 ###
