@@ -21,25 +21,6 @@ Tecnólogo en Análisis y Desarrollo de Software
 SENA, Apartadó
 Abril 2023 – Septiembre 2025
 
-## Tecnologías y herramientas 🛠️
-
-
-**Fundamentos:** HTML, CSS, JS.
-
-**Lenguajes:** JavaScript, TypeScript.
-
-**Librerías:** Zod, react-hook-form, React.js.
-
-**Frameworks:** Laravel, Next.js
-
-**Bases de datos:** MySql y PostgreSql.
-
-**ORM:** Prisma.
-
-**Control de versiones:** Git y GitHub.
-
-**IDE:** VSC y CURSOR.
-
 ###
 
 <div align="left">
@@ -67,5 +48,26 @@ Abril 2023 – Septiembre 2025
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
+
+## Tecnologías y herramientas 🛠️
+
+
+**Fundamentos:** HTML, CSS, JS.
+
+**Lenguajes:** JavaScript, TypeScript.
+
+**Librerías:** Zod, react-hook-form, React.js.
+
+**Frameworks:** Laravel, Next.js
+
+**Bases de datos:** MySql y PostgreSql.
+
+**ORM:** Prisma.
+
+**Control de versiones:** Git y GitHub.
+
+**IDE:** VSC y CURSOR.
+
+
 
 ###
