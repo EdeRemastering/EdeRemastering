@@ -1,4 +1,4 @@
-# Eder Luis Mestra Morelo 🧑‍
+# Eder Luis Mestra Morelo 🧑‍💻
 
 Apasionado analista y desarrollador de software enfocado en crear soluciones web innovadoras y eficientes con tecnologías modernas. Mi objetivo es transformar ideas en aplicaciones que simplifican procesos y potencian la productividad, haciendo la diferencia en equipos y organizaciones.
 
