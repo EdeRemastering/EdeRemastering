@@ -68,4 +68,6 @@ Abril 2023 – Septiembre 2025
 
 **IDE:** VSC y CURSOR.
 
+**Amazon Web Services** EC2, RDS, S3.
+
 ###
