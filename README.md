@@ -1,62 +1,146 @@
 # Eder Luis Mestra Morelo 🧑‍💻
 
-Full Stack Developer | Cloud (AWS), Automatización & IA
+## Full Stack Developer | Automatización & Sistemas Web
 
-Desarrollador Full Stack con experiencia en frontend moderno, backend, infraestructura cloud y automatización de procesos, enfocado en construir soluciones web completas de principio a fin. Desarrollo interfaces eficientes, implemento lógica de negocio robusta y despliego aplicaciones en entornos productivos usando AWS.
-Cuento con experiencia en automatización de flujos con n8n e integración de herramientas de inteligencia artificial para optimizar procesos operativos y administrativos.
-Poseo nivel de inglés B2, lo que me permite comunicarme en contextos técnicos, leer documentación avanzada y colaborar con equipos remotos.
+Desarrollador Full Stack enfocado en la creación de aplicaciones web, automatización de procesos e integración de herramientas digitales. Tengo experiencia participando en el desarrollo de soluciones utilizadas en entornos reales, trabajando con tecnologías como Next.js, Node.js, bases de datos SQL y plataformas de automatización como Make.
 
-## Perfil Profesional 💼
+Me interesa especialmente el desarrollo de software orientado a optimizar procesos operativos y administrativos mediante tecnología, integrando frontend, backend, automatización y herramientas basadas en inteligencia artificial.
 
-Analista y desarrollador de software con experiencia en el desarrollo de aplicaciones web full stack, automatización de procesos y despliegue de soluciones en la nube. He participado en proyectos donde integré frontend, backend, bases de datos, infraestructura cloud y automatización, comprendiendo el ciclo completo de una aplicación en producción.
+---
 
-Mi perfil combina desarrollo de software, cloud computing, automatización con n8n, Excel avanzado, VBA y soluciones basadas en IA, permitiéndome transformar procesos manuales en sistemas eficientes, escalables y orientados a cada necesidad.
+# Perfil Profesional 💼
 
-## Experiencia laboral 🚀
+Analista y desarrollador de software con experiencia en el desarrollo de aplicaciones web full stack, automatización de procesos e integración de servicios digitales.
 
-Fatiga Servicios
+He participado en proyectos donde trabajé en frontend, backend, bases de datos y automatización de flujos, comprendiendo el ciclo general de una aplicación en producción.
 
-Analista y Desarrollador de Software – Full Stack
-Diciembre 2024 – Junio 2025
+Mi perfil combina desarrollo web moderno, automatización con Make, integración de herramientas de IA y manejo de bases de datos SQL, permitiéndome transformar procesos manuales en soluciones digitales más eficientes y organizadas.
 
-Diseñé y desarrollé una aplicación web full stack para la gestión de horarios y control de salidas del personal de domicilios.
+---
 
-Implementé interfaces web responsivas enfocadas en usabilidad y eficiencia operativa.
+# Experiencia Laboral 🚀
 
-Construí un sistema integral de gestión de pedidos y domicilios, integrando frontend, backend y base de datos.
+## Fatiga Servicios
 
-Participé en el despliegue de la aplicación en infraestructura cloud, configurando servidores, bases de datos y almacenamiento de objetos.
+### Analista y Desarrollador de Software – Full Stack
 
-Implementé automatizaciones de procesos con n8n, integrando sistemas y flujos de datos.
+**2024 – 2025**
 
-Apliqué automatización y análisis de información con Excel avanzado y scripts VBA para apoyar la toma de decisiones operativas.
+* Diseñé y desarrollé una aplicación web para la gestión de horarios y control de salidas del personal de domicilios.
+* Implementé interfaces responsivas enfocadas en usabilidad y eficiencia operativa.
+* Participé en la construcción de funcionalidades frontend y backend para la gestión de pedidos y domicilios.
+* Trabajé con bases de datos SQL para almacenamiento y gestión de información operativa.
+* Apoyé procesos de despliegue y configuración básica de aplicaciones en servicios cloud.
+* Implementé automatizaciones de procesos utilizando n8n y herramientas de integración.
+* Integré herramientas basadas en inteligencia artificial para optimizar tareas operativas y administrativas.
+* Utilicé Excel avanzado y automatización con VBA para apoyar procesos de análisis y control operativo.
+* Trabajé utilizando Git y GitHub para control de versiones y organización del desarrollo.
 
-Integré herramientas de inteligencia artificial para optimizar flujos de trabajo y reducir tareas manuales.
+📌 **Resultado:** mejora en procesos operativos, reducción de tareas manuales y mayor organización en la gestión del equipo.
 
-Apliqué buenas prácticas de desarrollo y control de versiones para garantizar mantenibilidad y escalabilidad.
+### Automatización de Procesos & Desarrollo de Soluciones Digitales
 
-📌 Resultado: reducción de procesos manuales, mayor control operativo y mejora en la eficiencia del equipo.
+**2025 - 2026**
 
-## Educación 🎓
+* Diseñé flujos de automatización utilizando Make para optimizar procesos administrativos y operativos.
+* Integré herramientas basadas en inteligencia artificial para automatizar tareas relacionadas con procesamiento y organización de información.
+* Trabajé con bases de datos en Excel con más de 10.000 registros, automatizando validaciones, procesamiento y manipulación de datos.
+* Implementé integraciones entre servicios digitales para reducir tareas manuales y mejorar la eficiencia operativa.
+* Participé en la estructuración y optimización de flujos de información utilizados en procesos internos.
 
-Bachiller Académico
-Institución Educativa San Pedro Claver
+📌 Resultado: reducción de trabajo manual, mejor organización de datos y optimización de procesos administrativos.
+---
 
-Tecnólogo en Análisis y Desarrollo de Software
-SENA – Apartadó, Antioquia
-Abril 2023 – Septiembre 2025
+# Educación 🎓
 
-Ingeniería de Sistemas
-Corporación Unificada Nacional – CUN
+## Ingeniería de Sistemas
+
+**Corporación Unificada Nacional – CUN**
 Estudiante – primeros semestres
 
-Idiomas 🌍
+## Tecnólogo en Análisis y Desarrollo de Software
 
-Español: Nativo
-Inglés: B2 (Intermedio Alto)
-Instituto Lente – comprensión de documentación técnica, comunicación en contextos profesionales y trabajo con herramientas en inglés.
+**SENA – Apartadó, Antioquia**
+Abril 2023 – Septiembre 2025
 
-Formación universitaria en curso, con disposición al aprendizaje continuo en áreas como programación, arquitectura de sistemas, redes e infraestructura.
+## Bachiller Académico
+
+**Institución Educativa San Pedro Claver**
+
+---
+
+# Tecnologías y Herramientas 🛠️
+
+## Frontend
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* TypeScript
+* React.js
+* Next.js
+* Shadcn
+* Tailwind CSS
+* React Hook Form
+* Zod
+
+## Backend
+
+* Node.js
+* Laravel
+* APIs REST
+
+## Bases de Datos
+
+* PostgreSQL
+* MySQL
+* Prisma ORM
+
+## Automatización & IA
+
+* Make
+* Integración de herramientas basadas en IA
+* Automatización de procesos y flujos de trabajo
+
+## Cloud & Infraestructura
+
+* Vercel
+* Supabase
+* Supabase Storage
+* Despliegue básico de aplicaciones web
+* Gestión básica de servidores Linux
+
+## Herramientas
+
+* Git
+* GitHub
+* Visual Studio Code
+* Cursor
+* Automatización con VBA
+
+---
+
+# Idiomas 🌍
+
+* Español: Nativo
+* Inglés: Intermedio (B2)
+
+  * Lectura de documentación técnica
+  * Comprensión de herramientas y recursos en inglés
+  * Comunicación básica en contextos técnicos
+
+---
+
+# Intereses Profesionales 🚀
+
+* Desarrollo Full Stack
+* Automatización de procesos
+* Sistemas web empresariales
+* Integración de herramientas digitales
+* Inteligencia Artificial aplicada
+* Arquitectura de software
+* Open Source
+* Desarrollo de productos digitales
 
 ## Tecnologías y herramientas 🛠️
 
@@ -87,29 +171,3 @@ Formación universitaria en curso, con disposición al aprendizaje continuo en �
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
-
-###
-Fundamentales: HTML5, CSS3, JavaScript (ES6+).
-
-Lenguajes: JavaScript, TypeScript.
-
-Frontend: React.js, Next.js, Tailwind CSS, react-hook-form, Zod.
-
-Backend: Laravel, Node.js, APIs REST.
-
-Bases de datos: MySQL, PostgreSQL.
-
-ORM: Prisma.
-
-Automatización & IA: n8n, integración de herramientas de inteligencia artificial, optimización de flujos de trabajo con IA.
-
-Ofimática: Microsoft Excel avanzado (tablas dinámicas, análisis de datos), automatización con VBA.
-
-Control de versiones: Git, GitHub.
-
-IDE: Visual Studio Code (VSC), Cursor.
-
-Despliegue e infraestructura: Amazon Web Services (AWS) – EC2, RDS, S3; gestión básica de servidores Linux.
-
-Idiomas: Español (nativo), Inglés B2.
-###
