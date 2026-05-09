@@ -38,6 +38,7 @@ Mi perfil combina desarrollo web moderno, automatización con Make, integración
 
 📌 **Resultado:** mejora en procesos operativos, reducción de tareas manuales y mayor organización en la gestión del equipo.
 
+## COTEMA
 ### Automatización de Procesos & Desarrollo de Soluciones Digitales
 
 **2025 - 2026**
