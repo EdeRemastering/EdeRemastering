@@ -26,14 +26,10 @@ Mi perfil combina desarrollo web moderno, automatización con Make, integración
 
 **2024 – 2025**
 
-* Diseñé y desarrollé una aplicación web para la gestión de horarios y control de salidas del personal de domicilios.
+* Participé en una aplicación web para la gestión de horarios y control de salidas del personal de domicilios.
 * Implementé interfaces responsivas enfocadas en usabilidad y eficiencia operativa.
 * Participé en la construcción de funcionalidades frontend y backend para la gestión de pedidos y domicilios.
 * Trabajé con bases de datos SQL para almacenamiento y gestión de información operativa.
-* Apoyé procesos de despliegue y configuración básica de aplicaciones en servicios cloud.
-* Implementé automatizaciones de procesos utilizando n8n y herramientas de integración.
-* Integré herramientas basadas en inteligencia artificial para optimizar tareas operativas y administrativas.
-* Utilicé Excel avanzado y automatización con VBA para apoyar procesos de análisis y control operativo.
 * Trabajé utilizando Git y GitHub para control de versiones y organización del desarrollo.
 
 📌 **Resultado:** mejora en procesos operativos, reducción de tareas manuales y mayor organización en la gestión del equipo.
@@ -49,7 +45,7 @@ Mi perfil combina desarrollo web moderno, automatización con Make, integración
 * Implementé integraciones entre servicios digitales para reducir tareas manuales y mejorar la eficiencia operativa.
 * Participé en la estructuración y optimización de flujos de información utilizados en procesos internos.
 
-📌 Resultado: reducción de trabajo manual, mejor organización de datos y optimización de procesos administrativos.
+* 📌 Resultado: reducción de trabajo manual, mejor organización de datos y optimización de procesos administrativos.
 ---
 
 # Educación 🎓
